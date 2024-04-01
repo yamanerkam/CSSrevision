@@ -1,0 +1,60 @@
+#header-id {
+    color: cadetblue;
+}
+
+.spelling-example {
+    background-color: blueviolet;
+}
+
+.spelling-example:hover {
+    background-color: darkgoldenrod;
+}
+
+.spelling-example ::spelling-error {
+    background-color: aquamarine;
+    text-decoration: underline;
+}
+
+
+
+.header-class {
+    color: blueviolet;
+}
+
+h1 {
+    color: hotpink !important;
+    text-align: center;
+}
+
+.submit:hover {
+    background-color: blueviolet;
+    color: blue;
+}
+
+.submit:focus {
+    background-color: red;
+}
+
+.email:disabled {
+    background-color: aqua;
+}
+
+main section {
+    color: white;
+    background-color: green;
+}
+
+
+main section ol :first-child,
+ul :first-child {
+    color: turquoise;
+}
+
+.middle {
+    color: black;
+    background-color: white;
+}
+
+.middle ol :last-child {
+    text-decoration: line-through;
+}

@@ -1,0 +1,50 @@
+.header {
+    background-color: purple;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.foot {
+    text-align: center;
+    color: white !important;
+    background-color: purple !important;
+}
+
+.date {
+    color: gray;
+    font-style: italic;
+}
+
+.name {
+    color: gray;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+
+
+.hello {
+    color: blueviolet;
+    background-color: azure;
+    font-size: 100px;
+}
+
+
+
+.divOne {
+    color: pink;
+}
+
+.why {
+    color: inherit;
+}
+
+
+.parent {
+    color: blue;
+}
